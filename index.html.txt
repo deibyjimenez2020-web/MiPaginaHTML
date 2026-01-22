@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Página Original</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi página original</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Lista de cosas interesantes</h2>
+            <ul>
+                <li>Elemento 1</li>
+                <li>Elemento 2</li>
+                <li>Elemento 3</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Mis imágenes favoritas</h2>
+            <img src="imagen1.jpg" alt="Descripción de la primera imagen">
+            <img src="imagen2.jpg" alt="Descripción de la segunda imagen">
+            <img src="imagen3.jpg" alt="Descripción de la tercera imagen">
+        </section>
+        
+        <footer>
+            <p>Para más información visita 
+                <a href="https://www.wikipedia.org" target="_blank">Wikipedia</a>
+            </p>
+        </footer>
+    </main>
+</body>
+</html>
